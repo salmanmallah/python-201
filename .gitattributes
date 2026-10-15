@@ -1,0 +1,2 @@
+# Tell GitHub Linguist to ignore Tcl files and build outputs in language statistics
+*.tcl linguist-detectable=false
